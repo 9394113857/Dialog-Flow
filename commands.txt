@@ -1,8 +1,0 @@
-# # New -> File -> Procfile:-
-# # web: gunicorn app:app
-
-# Project Dependencies:-
-# pip freeze > /path/to/requirements.txt
-# which records an environment's current package list into requirements.txt
-
-# pip install -r /path/to/requirements.txt
